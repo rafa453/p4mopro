@@ -94,14 +94,6 @@ Menggunakan store `intMapStoreFactory.store('notes')`.
   }
 ```
 
-## Hasil Uji Coba
-
-| Skenario Uji | Hasil yang Diharapkan | Screenshot |
-| :--- | :--- | :--- |
-| Create Catatan | Catatan tersimpan di daftar | TODO: screenshot |
-| Read Catatan | Daftar catatan tampil | TODO: screenshot |
-| Update Catatan | Perubahan tersimpan | TODO: screenshot |
-| Delete Catatan | Catatan hilang dari daftar | TODO: screenshot |
 
 ## Perbandingan SQLite vs Sembast
 
